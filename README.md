@@ -1,15 +1,19 @@
 # Hi, I'm Dawid Piotrowski! 👋
 
-## About Me
+<details>
+  <summary><strong>About Me</strong></summary>
+
 I'm a passionate computer science student based in Kraków, Poland. I’m currently pursuing dual degrees at AGH University:
 - **B.Sc. in Applied Computer Science** (expected Feb 2026)
 - **B.Sc. in Cybersecurity** (expected Feb 2028)
 
 I love exploring new technologies, solving complex challenges, and learning every day. Whether it’s coding a simulation or coordinating international student exchange programs, I thrive on creative problem-solving and continuous improvement.
 
----
+</details>
 
-## Skills
+<details>
+  <summary><strong>Skills</strong></summary>
+
 - **Programming Languages:** Python, Scala, C++ (C++17/20), C, Java, MATLAB, Bash, PowerShell, HTML5, CSS, JavaScript, PHP  
 - **Databases:** PostgreSQL, Tembo Databases  
 - **Operating Systems:** Linux, Kali Linux, Red Hat Linux, Windows  
@@ -18,9 +22,11 @@ I love exploring new technologies, solving complex challenges, and learning ever
 - **Frameworks & Libraries:** SFML, wxWidgets  
 - **Languages:** English (B2+/C1), German (A2)
 
----
+</details>
 
-## Professional Experience
+<details>
+  <summary><strong>Professional Experience</strong></summary>
+
 **Student Exchange Team Member**  
 *IAESTE - I&O Group | Nov 2024 – Present, Kraków, Poland*  
 - Organized and coordinated student exchange programs, managing international logistics and communications while enhancing teamwork, organization, and cultural awareness.
@@ -29,9 +35,11 @@ I love exploring new technologies, solving complex challenges, and learning ever
 *Szkoła Maturzystów Łukasza Jarosińskiego | Sep 2023 – Present, Kraków, Poland*  
 - Conducted personalized tutoring sessions in math and physics, creating tailored learning plans to help students excel. This role has strengthened my communication, empathy, and instructional skills.
 
----
+</details>
 
-## Projects
+<details>
+  <summary><strong>Projects</strong></summary>
+
 - **Hotel Reservation Database (BD_HOTEL)**  
   *Technologies: SQL, PL/pgSQL, PHP, JavaScript, CSS*  
   Developed an advanced hotel reservation system featuring a robust, normalized database schema with automated stored procedures, dynamic web interfaces for managing reservations, and comprehensive reporting and logging functionalities.  
@@ -52,16 +60,20 @@ I love exploring new technologies, solving complex challenges, and learning ever
   Built an interactive application that trains a convolutional neural network on the EMNIST dataset, offering a Tkinter GUI for drawing letters and displaying real-time top-3 prediction probabilities.  
   [GitHub Repo](https://github.com/kasta03/IA_PROJECT/tree/main)
 
----
+</details>
 
-## Achievements & Awards
+<details>
+  <summary><strong>Achievements & Awards</strong></summary>
+
 - **AGH Primus Scholarship** – Awarded for outstanding academic performance.  
 - **Golden Index Laureate** – Recognized by Cracow University of Technology for excellence.  
 - **Finalist in Chemistry Competition** – Acknowledged at the Jagiellonian University for achievement in chemistry.
 
----
+</details>
 
-## Certifications
+<details>
+  <summary><strong>Certifications</strong></summary>
+
 - **CCNA: Introduction to Networks** (Cisco, Issued 2025)  
   *Focus:* General Network Analysis
 
@@ -77,11 +89,15 @@ I love exploring new technologies, solving complex challenges, and learning ever
 - **Google Cybersecurity Certificate** (Coursera, Issued Oct 2024)  
   *Focus:* Network Security, Python Programming, Linux & SQL, Intrusion Detection Systems (IDS), Assets, Threats, and Vulnerabilities
 
----
+</details>
 
-## Contact
+<details>
+  <summary><strong>Contact</strong></summary>
+
 I'm always open to discussing projects, collaborations, or new opportunities. Feel free to reach out!
 
 - **Email:** [dpiotrowski393939@gmail.com](mailto:dpiotrowski393939@gmail.com)  
 - **LinkedIn:** [Dawid Piotrowski](https://www.linkedin.com/in/dawid-piotrowski-0831bb306/)  
 - **GitHub:** [LeoTheOriginal](https://github.com/LeoTheOriginal)
+
+</details>
