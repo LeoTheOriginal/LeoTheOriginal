@@ -123,11 +123,3 @@ I love exploring new technologies, solving complex challenges, and learning ever
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/wr7i3vtvbsnhvy53ftfgs8mt4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wr7i3vtvbsnhvy53ftfgs8mt4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
