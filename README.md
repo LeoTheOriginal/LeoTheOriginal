@@ -1,4 +1,4 @@
-# Hi, I'm Dawid Piotrowski! 👋
+<h1 align="center">Hi 👋, I'm Dawid Piotrowski</h1>
 
 <details>
   <summary><strong>About Me</strong></summary>
