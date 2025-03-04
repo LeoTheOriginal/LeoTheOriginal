@@ -101,3 +101,7 @@ I'm always open to discussing projects, collaborations, or new opportunities. Fe
 - **GitHub:** [LeoTheOriginal](https://github.com/LeoTheOriginal)
 
 </details>
+
+<div align='center'>
+  <img height='200' alt='Top Languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTheOriginal&langs_count=8&theme=dark&layout=compact&hide_border=true'>
+</div>
