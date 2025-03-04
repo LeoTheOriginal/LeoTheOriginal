@@ -9,6 +9,14 @@ I'm a passionate computer science student based in Kraków, Poland. I’m curren
 
 I love exploring new technologies, solving complex challenges, and learning every day. Whether it’s coding a simulation or coordinating international student exchange programs, I thrive on creative problem-solving and continuous improvement.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leotheoriginal" alt="leotheoriginal" /></a> </p>
+
+- 🌱 I’m currently learning **Machine Learning, software Engineering**
+
+- 👨‍💻 All of my projects are available at [https://github.com/LeoTheOriginal?tab=repositories](https://github.com/LeoTheOriginal?tab=repositories)
+
+- 📫 How to reach me **dpiotrowski393939@gmail.com**
+
 </details>
 
 <details>
@@ -90,14 +98,6 @@ I love exploring new technologies, solving complex challenges, and learning ever
   *Focus:* Network Security, Python Programming, Linux & SQL, Intrusion Detection Systems (IDS), Assets, Threats, and Vulnerabilities
 
 </details>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leotheoriginal" alt="leotheoriginal" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Software Engineering**
-
-- 👨‍💻 All of my projects are available at [https://github.com/LeoTheOriginal?tab=repositories](https://github.com/LeoTheOriginal?tab=repositories)
-
-- 📫 How to reach me **dpiotrowski393939@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
