@@ -118,6 +118,6 @@ I love exploring new technologies, solving complex challenges, and learning ever
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeoTheOriginal/LeoTheOriginal/output/snake.svg" alt="Snake animation" />
 
 ###
