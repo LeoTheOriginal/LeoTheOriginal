@@ -11,7 +11,7 @@ I love exploring new technologies, solving complex challenges, and learning ever
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leotheoriginal" alt="leotheoriginal" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, software Engineering**
+- 🌱 I’m currently learning **Machine Learning, Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeoTheOriginal?tab=repositories](https://github.com/LeoTheOriginal?tab=repositories)
 
