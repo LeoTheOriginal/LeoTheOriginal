@@ -3,9 +3,10 @@
 <details>
   <summary><strong>About Me</strong></summary>
 
-I'm a passionate computer science student based in Kraków, Poland. I’m currently pursuing dual degrees at AGH University:
-- **B.Sc. in Applied Computer Science** (expected Feb 2026)
-- **B.Sc. in Cybersecurity** (expected Feb 2028)
+I'm a passionate computer science student based in Kraków, Poland. I’m currently pursuing degrees at AGH University:
+- **B.Sc. in Applied Computer Science** (completed Feb 2026)
+- **M.Sc. in Applied Computer Science** (expected Feb 2028)
+- **B.Sc. in Cybersecurity** (expected Feb 2029)
 
 I love exploring new technologies, solving complex challenges, and learning every day. Whether it’s coding a simulation or coordinating international student exchange programs, I thrive on creative problem-solving and continuous improvement.
 
